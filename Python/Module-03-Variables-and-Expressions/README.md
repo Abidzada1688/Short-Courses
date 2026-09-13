@@ -21,3 +21,10 @@ A **variable** is a named memory location where a programmer can store data and 
 ```python
 x = 12.2    # Store 12.2 in memory location named x
 x = 14.0    # Overwrite previous value with 14.0
+
+###  User Input and Type Conversion
+* `input()` pauses program execution and prompts the user to enter text.
+* The `input()` function **always returns a string**, even if the user enters digits.
+* To perform calculations on user input, explicitly convert the string to a numeric type using `int()` or `float()`.
+
+---
