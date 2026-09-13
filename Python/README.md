@@ -21,7 +21,7 @@ Click any module link below to view detailed lecture breakdowns, takeaways, and 
 | :---: | :--- | :--- | :---: | :---: |
 | **01** | [📁 Module 01: Why Program?](./Module-01-Why-Program/) | Hardware vs. Software, Python Syntax, Interpreter | [`hello.py`](./Module-01-Why-Program/hello.py) | ✅ Completed |
 | **02** | [📁 Module 02: Hardware Concepts](./Module-02-Hardware-Concepts/) | CPU, RAM, Secondary Memory, Syntax & Logic Errors | N/A | ✅ Completed |
-| **03** | [📁 Module 03: Variables & Expressions](./Module-03-Variables-and-Expressions/) | Constants, PEMDAS, Data Types, `input()` Casting | [`expressions.py`](./Module-03-Variables-and-Expressions/expressions.py) | ✅ Completed |
+| **03** | [📁 Module 03: Variables & Expressions](./Module-03-Variables-and-Expressions/) | Constants, PEMDAS, Data Types, `input()` Casting | [`expressions.py`](./Module-03-Variables-and-Expressions/expressions.py), [`1st_I-P-O.py`](./Module-03-Variables-and-Expressions/1st_I-P-O.py)| ✅ Completed |
 | **04** | [📁 Module 04: Conditional Execution](./Module-04-Conditional-Execution/) | `if`, `else`, `elif` statements, `try`/`except` blocks | *Coming Soon* | 🔄 In Progress |
 
 ---
